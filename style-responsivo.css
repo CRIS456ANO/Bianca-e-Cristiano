@@ -1,0 +1,38 @@
+@media (max-width: 400px) {
+    body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(Imagens/outros/IMG-20220521-WA0012.jpg) ;
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    scroll-margin-bottom: 15px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+
+.nos-imagens-index {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 400px;
+    padding: 12px;
+    margin: 20px;
+}
+img {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 3%;
+    z-index: 1;    
+}
+
+.lista-eventi-storici {
+    background-color: rgba(255,255,255, 0.5);
+}
+}
