@@ -30,3 +30,6 @@ img {
     z-index: 1;    
 }
 
+.lista-eventi-storici {
+    background-color: rgba(255,255,255, 0.5);
+}
