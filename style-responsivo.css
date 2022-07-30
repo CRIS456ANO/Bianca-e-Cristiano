@@ -1,9 +1,9 @@
 @media (max-width: 400px) {
     body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url(Imagens/outros/IMG-20220521-WA0012.jpg) ;
-    width: 500px;
-    padding: 20px;
+    background-image: url(Imagens/outros/per-il-sito/praia-500x2429-fundo-site-celular.jpg) ;
+    width: 350px;
+    padding: 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -13,18 +13,18 @@
 header {
     display: flex;
     justify-content: center;
-    width: 500px;
+    width: 350px;
 }
 
 .nos-imagens-index {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 12px;
-    width: 400px;
-    padding: 12px;
-    margin: 20px;
+    gap: 5px;
+    width: 350px;
+    padding: 2px;
+    margin: 4px;
 }
 img {
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
