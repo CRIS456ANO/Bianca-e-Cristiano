@@ -1,6 +1,7 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url(Imagens/outros/IMG-20220521-WA0012.jpg);
+    background-attachment: fixed;
     width: 1200px;
     height: 100%;
     padding: 50px;
